@@ -1,0 +1,16 @@
+{
+   "3GeV" : {
+      "inputs" : [],
+      "prefix" : "3GeV",
+      "normalization" : 0.3333333333333333,
+      "label" : "3 GeV",
+      "nprimary" : 100000
+   },
+   "5GeV" : {
+      "inputs" : [],
+      "prefix" : "5GeV",
+      "normalization" : 0.2,
+      "label" : "5 GeV",
+      "nprimary" : 100000
+   }
+}
