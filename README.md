@@ -16,12 +16,12 @@ The python scripts are to be considered tools subject to change. The *f files ar
 The main repository structure is the following
 ```
 ├── tapering_coils_configurations     # Magnetic field maps
-│   ├── HTS_v2_20_coils
-│   │   ├── tapering
-│   │   └── chicane
-│   ├── HTS_v1_18_coils
-│   │   ├── tapering
-│   │   └── chicane
+│   └─── HTS_v3_23_coils
+│       ├── tapering
+│       └── chicane
+│   
+│   
+│   
 ├── src
 │   ├── exe_mgdraw
 │   └── emittance_calculator          # Postprocessing tools for calculating yiels
