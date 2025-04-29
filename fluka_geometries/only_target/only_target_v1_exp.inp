@@ -93,6 +93,10 @@ SPH void       0.0 0.0 0.0 10000.0
 $start_transform tar_t
 !@what.7=nsigma*sigma
 RCC target     0. 0. 0 0. 0. $tarlen 1.5
+!@what.3=nsigma*sigma
+ZCC t_cyl      0.0 0.0 1.5
+XYP t_beg      0
+XYP t_end      $tarlen
 XYP sup1u      0
 XYP sup1d      0.6
 !@what.1=tarlen / 2 - 0.3
